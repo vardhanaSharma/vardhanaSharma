@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vardhanaSharma
+- 👋 Hi,
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently CSE undergraduade
 
