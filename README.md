@@ -1,6 +1,5 @@
 - 👋 Hi,
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently CSE undergraduade
 
 <!---
 vardhanaSharma/vardhanaSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
